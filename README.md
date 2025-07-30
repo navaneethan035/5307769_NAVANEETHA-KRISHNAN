@@ -1,10 +1,2 @@
 # 5307769_NAVANEETHA-KRISHNAN
 ![Screenshot](https://raw.githubusercontent.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/main/SDLC/Screenshot%202025-07-28%20162300.png)
-![Screenshot 1](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20175951.png?raw=true)
-![Screenshot 2](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180002.png?raw=true)
-![Screenshot 3](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180013.png?raw=true)
-![Screenshot 4](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180025.png?raw=true)
-![Screenshot 5](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180036.png?raw=true)
-![Screenshot 6](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180047.png?raw=true)
-![Screenshot 7](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180059.png?raw=true)
-![Screenshot 8](https://github.com/navaneethan035/5307769_NAVANEETHA-KRISHNAN/blob/main/Linux%20Assignment/Linux%20cmd%201/Screenshot%202025-07-29%20180110.png?raw=true)
